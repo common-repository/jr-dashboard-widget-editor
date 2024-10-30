@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jr-dashboard-widget-editor\n"
+"POT-Creation-Date: 2018-12-05 17:45+0900\n"
+"PO-Revision-Date: 2018-12-05 17:45+0900\n"
+"Last-Translator: Jack Russell\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: main.php:112 main.php:113 main.php:122 main.php:123 main.php:132
+#: main.php:133 main.php:141 main.php:142
+#: resources/parts/setting-dashboard.php:38
+#: resources/parts/setting-widget.php:50 resources/parts/setting-widget.php:58
+#: resources/parts/setting-widget.php:86
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: main.php:112 main.php:113 main.php:132 main.php:133
+#: resources/parts/setting-dashboard.php:38
+msgid "Customize"
+msgstr "カスタマイズ"
+
+#: main.php:113 main.php:123 main.php:133 main.php:142
+msgid "- "
+msgstr "- "
+
+#: main.php:122 main.php:123 main.php:141 main.php:142
+#: resources/parts/setting-widget.php:50
+msgid "Add widgets"
+msgstr "ウィジェットの追加"
+
+#: resources/parts/setting-dashboard.php:23
+#: resources/parts/setting-widget.php:33
+msgid "Saved"
+msgstr "保存しました"
+
+#: resources/parts/setting-dashboard.php:45
+msgid "Header"
+msgstr "ヘッダー"
+
+#: resources/parts/setting-dashboard.php:49
+msgid "Hide update information"
+msgstr "アップデート情報を非表示にする"
+
+#: resources/parts/setting-dashboard.php:56
+msgid "Footer"
+msgstr "フッター"
+
+#: resources/parts/setting-dashboard.php:60
+msgid "Footer text"
+msgstr "フッターテキスト"
+
+#: resources/parts/setting-widget.php:62 resources/parts/setting-widget.php:90
+msgid "Enabled"
+msgstr "有効"
+
+#: resources/parts/setting-widget.php:69 resources/parts/setting-widget.php:97
+msgid "Title"
+msgstr "タイトル"
+
+#: resources/parts/setting-widget.php:73 resources/parts/setting-widget.php:101
+msgid "Content"
+msgstr "コンテンツ"
+
+#: resources/parts/setting-widget.php:77
+msgid "Delete"
+msgstr "削除"
